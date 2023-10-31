@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import StudentView from "../views/students/View.vue";
+
 import StudentCreate from "../views/students/Create.vue";
 import StudentEdit from "../views/students/Edit.vue";
 

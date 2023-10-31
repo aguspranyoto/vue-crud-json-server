@@ -94,6 +94,7 @@ export default {
         )
         .then((res) => {
           console.log(res.data);
+          this.$router.push({ name: "students" });
         })
         .catch(function (error) {
           console.log(error);
