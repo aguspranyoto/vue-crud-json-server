@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "agud",
+      "course": "english",
+      "email": "agus@gmail.com",
+      "phone": "62812373131"
+    },
+    {
+      "id": 2,
+      "name": "dio",
+      "course": "math",
+      "email": "dio@gmail.com",
+      "phone": "62857414121"
+    },
+    {
+      "id": 3,
+      "name": "esa",
+      "course": "science",
+      "email": "esa@gmail.com",
+      "phone": "62856722341"
+    },
+    {
+      "id": 4,
+      "name": "dhini",
+      "course": "english",
+      "email": "dhini@gmail.com",
+      "phone": "62143193814"
+    },
+    {
+      "id": 5,
+      "name": "ocit",
+      "course": "math",
+      "email": "ocit@gmail.com",
+      "phone": "62832414114"
+    },
+    {
+      "name": "asd",
+      "course": "asd",
+      "email": "ads@gmail.com",
+      "phone": "12312312",
+      "id": 7
+    },
+    {
+      "name": "asdasd",
+      "course": "asdasdas",
+      "email": "asd@ds.com`",
+      "phone": "1341234",
+      "id": 9
+    },
+    {
+      "name": "dio",
+      "course": "math",
+      "email": "dio@gmail.com",
+      "phone": "123123",
+      "id": 15
+    },
+    {
+      "name": "asd",
+      "course": "as",
+      "email": "asd@gmail.com",
+      "phone": "1234",
+      "id": 18
+    }
+  ]
+}
